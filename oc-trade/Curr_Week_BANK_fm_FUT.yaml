@@ -1,6 +1,6 @@
 base_name: BANKNIFTY
 base_script: NFO:BANKNIFTY23APRFUT
-sample: 38000
+sample: 428000
 addsub: 100
 expiry: '23APR'
 abv_atm: 9
