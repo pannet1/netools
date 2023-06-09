@@ -1,0 +1,8 @@
+base_name: NIFTY
+base_script: NFO:NIFTY23JUNFUT
+sample: 18000
+addsub: 50
+expiry: '23615'
+abv_atm: 9
+opt_exch: NFO
+opt_lot: 50
