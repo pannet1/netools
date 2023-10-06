@@ -1,5 +1,5 @@
 base_name: NIFTY
-base_script: NFO:NIFTY23JUNFUT
+base_script: NFO:NIFTY23OCTFUT
 sample: 18000
 addsub: 50
 expiry: '23608'
